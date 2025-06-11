@@ -1,0 +1,3 @@
+flask
+pyPDF2
+requests
