@@ -16,7 +16,7 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 # Change this to your PDF file name
-PDF_PATH = "media_to_upload1717413506"
+PDF_PATH = "media_to_upload1717413506(1)"
 textbook_text = extract_text_from_pdf(PDF_PATH)
 
 # Gemini API details
